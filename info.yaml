@@ -18,7 +18,7 @@ project:
   # Don't forget to also update `PROJECT_SOURCES` in test/Makefile.
   source_files:
     - "project.v"
-    - "bcd_counter.sv"
+    - "intro_2_stopwatch.sv"
     - "bcd_counter.sv"
     - "fsm.sv"
     - "timer.sv"
