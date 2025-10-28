@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Purdue SoCET - Fall 2025 Intro II Projects - Stopwatch"      # Project title
+  title:        "Purdue SoCET - Spring 2025 Intro II Projects - Stopwatch"      # Project title
   author:       "Alexander Weyer, Miguel Isrrael Teran"      # Your name
   discord:      "aweyer26"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "A nice stopwatch"      # One line description of what your project does
